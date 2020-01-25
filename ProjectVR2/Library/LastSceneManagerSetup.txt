@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/keep/forPublicity.unity
-  isLoaded: 0
-  isActive: 0
+- path: Assets/Scenes/Phase3.unity
+  isLoaded: 1
+  isActive: 1
   isSubScene: 0
